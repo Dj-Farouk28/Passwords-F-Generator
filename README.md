@@ -25,13 +25,15 @@ Please select an option:
 
 1. Generate 6-letter passwords
    
-3. Generate 8-letter passwords
+2. Generate 8-letter passwords
    
-5. Generate passwords with custom lengths
-   
-7. Exit
+3. Generate passwords with random lengths
 
-Enter your choice: 1
+4. Generate passwords with custom lengths
+   
+5. Exit
+
+Enter your choice: 1 or 2 or 3 or 4 or 5
 
 Username (default_user): "Here, you insert the keyword that you believe is strong." Example: Djome jems
 
