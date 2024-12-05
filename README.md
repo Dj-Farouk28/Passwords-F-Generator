@@ -12,6 +12,37 @@ Startup method :
 
 6-./users.bin
 
+
+
+
+Example :..........................................
+
+$ ./users.bin
+
+Welcome to Passwords-F-Generator!
+
+Please select an option:
+
+1. Generate 6-letter passwords
+   
+3. Generate 8-letter passwords
+   
+5. Generate passwords with custom lengths
+   
+7. Exit
+
+Enter your choice: 1
+
+Username (default_user): "Here, you insert the keyword that you believe is strong." Example: Djome jems
+
+Your odds (separated by spaces): "Here, you put things you know about the person." Example: password123 abc456 12/09/1987 djimes
+
+Number of combinations to generate: "Here, you specify how many passwords you want." Example: 100
+
+Passwords generated and saved to: /Users/username/Downloads/usernames.txt
+
+
+
 .....................................................
 
 # Passwords-F-Generator
@@ -67,9 +98,9 @@ Please select an option:
 4. Exit
 
 Enter your choice: 1
-Username (default_user): myusername
-Your odds (separated by spaces): password123 abc456
-Number of combinations to generate: 10
+Username (default_user): "Here, you insert the keyword that you believe is strong." Example: Djome jems
+Your odds (separated by spaces): "Here, you put things you know about the person." Example: password123 abc456 12/09/1987 djimes
+Number of combinations to generate: "Here, you specify how many passwords you want." Example: 100
 Passwords generated and saved to: /Users/username/Downloads/usernames.txt
 
 
