@@ -1,14 +1,16 @@
 Startup method : 
 
-1-sudo apt install python3-rich
+1-git clone https://github.com/Dj-Farouk28/Passwords-F-Generator.git
 
-2-sudo apt install progress
+2-sudo apt install python3-rich
 
-3-cd users
+3-sudo apt install progress
 
-4-chmod +x users.bin
+4-cd users
 
-5-./users.bin
+5-chmod +x users.bin
+
+6-./users.bin
 
 
 .....................................................
