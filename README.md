@@ -1,9 +1,15 @@
 Startup method : 
+
 1-sudo apt install python3-rich
+
 2-sudo apt install progress
+
 3-cd users
+
 4-chmod +x users.bin
+
 5-./users.bin
+
 
 .....................................................
 
