@@ -1,8 +1,9 @@
 Startup method : 
-1-pip install rich
-2-cd users
-3-chmod +x users
-4-./users
+1-sudo apt install python3-rich
+2-sudo apt install progress
+3-cd users
+4-chmod +x users.bin
+5-./users.bin
 
 .....................................................
 
@@ -30,17 +31,17 @@ To run the tool, you need to have **Python 3.x** installed along with the follow
 If you don't have the `rich` library installed, you can install it using the following command:
 
 ```bash
-pip install rich
+sudo apt install python3-rich
 
 
 How to Use :..........................................................
 1- Clone or download the repository.
 
 2- Install the required dependencies:
-pip install rich
+sudo apt install python3-rich
 
 3- Run the script:
-python users or ./users
+./users.bin
 
 4-Follow the prompts to generate usernames and passwords:
 
@@ -50,7 +51,7 @@ python users or ./users
 
 Example :..........................................
 
-$ python users ...or... ./users
+$ ./users.bin
 Welcome to Passwords-F-Generator!
 Please select an option:
 1. Generate 6-letter passwords
