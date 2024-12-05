@@ -1,4 +1,4 @@
-Startup method : 
+📥 Startup method 📥 : 
 
 1-git clone https://github.com/Dj-Farouk28/Passwords-F-Generator.git
 
@@ -15,7 +15,7 @@ Startup method :
 
 
 
-Example :..........................................
+⚡ Example ⚡ :..........................................
 
 $ ./users.bin
 
