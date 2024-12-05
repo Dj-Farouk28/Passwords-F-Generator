@@ -6,7 +6,7 @@ Startup method :
 
 3-sudo apt install progress
 
-4-cd users
+4-cd Passwords-F-Generator
 
 5-chmod +x users.bin
 
