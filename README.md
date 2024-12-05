@@ -15,6 +15,41 @@
 
 
 
+
+
+
+
+
+![Screenshot from 2024-12-05 13-51-10](https://github.com/user-attachments/assets/6b7a1603-9ab8-4de5-be1b-4d4124b95254)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ⚡ Example ⚡ :..........................................
 
 $ ./users.bin
